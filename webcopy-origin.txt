@@ -1,0 +1,2420 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/643d67b83069da864a9ace18/6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/643d67b83069da864a9ace18/6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/643d67b83069da864a9ace18/6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/643d67b83069da864a9ace18/6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/643d67b83069da864a9ace18/6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/643d67b83069da864a9ace18/6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/63d002aff2e8ae604382f276/63d30d6e9621e99b94317334_margin_FILL0_wght400_GRAD0_opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\63d002aff2e8ae604382f276\63d30d6e9621e99b94317334_margin_FILL0_wght400_GRAD0_opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da09169ace64_open_in_full_FILL0_wght700_GRAD0_opsz48_white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da09169ace64_open_in_full_FILL0_wght700_GRAD0_opsz48_white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da0b1f9acea3_shopping-bag-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da0b1f9acea3_shopping-bag-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da15229aceee_tab-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da15229aceee_tab-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da1fd09ace5d_icon-white-contact-3.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da1fd09ace5d_icon-white-contact-3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da230b9acf0f_production ID_4146356 (1)-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da230b9acf0f_production ID_4146356 (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da230b9acf0f_production ID_4146356 (1)-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da230b9acf0f_production ID_4146356 (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da2b6b9ace60_arrow-icon-white-4.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da2b6b9ace60_arrow-icon-white-4.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da2c269acf5d_pexels-tima-miroshnichenko-7578613 (1)-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da2c269acf5d_pexels-tima-miroshnichenko-7578613 (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da2c269acf5d_pexels-tima-miroshnichenko-7578613 (1)-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da2c269acf5d_pexels-tima-miroshnichenko-7578613 (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da31f09acef0_format-color-fill-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da31f09acef0_format-color-fill-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da3a0a9ace42_expand_less_FILL0_wght700_GRAD0_opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da3a0a9ace42_expand_less_FILL0_wght700_GRAD0_opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da517e9ace6d_margin-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da517e9ace6d_margin-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da533c9ace4a_format_quote_FILL0_wght700_GRAD0_opsz48-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da533c9ace4a_format_quote_FILL0_wght700_GRAD0_opsz48-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da5d329ace43_done_FILL0_wght700_GRAD0_opsz48_white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da5d329ace43_done_FILL0_wght700_GRAD0_opsz48_white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da5f479acf01_keyboard-alt-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da5f479acf01_keyboard-alt-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da620b9acf03_gallery-thumbnail-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da620b9acf03_gallery-thumbnail-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da66739acf04_animation-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da66739acf04_animation-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da792d9aceed_dock-to-bottom-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da792d9aceed_dock-to-bottom-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da95c99acf17_pexels-tima-miroshnichenko-5716910 (1)-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da95c99acf17_pexels-tima-miroshnichenko-5716910 (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069da95c99acf17_pexels-tima-miroshnichenko-5716910 (1)-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069da95c99acf17_pexels-tima-miroshnichenko-5716910 (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069daa3de9ace90_line-style-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069daa3de9ace90_line-style-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069daa6e49acf09_Stardom-Regular.woff2
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069daa6e49acf09_Stardom-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069dab0799ad020_line-end-arrow-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069dab0799ad020_line-end-arrow-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069dabe839ace8a_clarify-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069dabe839ace8a_clarify-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069dac0b29acef1_view-quilt-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069dac0b29acef1_view-quilt-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069dacda49ace4f_arrow-icon-white-2.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069dacda49ace4f_arrow-icon-white-2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069dad7c69acef3_call-to-action-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069dad7c69acef3_call-to-action-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069dae4019ace49_arrow-icon-white-8.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069dae4019ace49_arrow-icon-white-8.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069daf6ac9acf56_pexels-jack-sparrow-5977474 (1)-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069daf6ac9acf56_pexels-jack-sparrow-5977474 (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/643d67b83069daf6ac9acf56_pexels-jack-sparrow-5977474 (1)-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\643d67b83069daf6ac9acf56_pexels-jack-sparrow-5977474 (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645167ec55e617c5e97fc539_home-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645167ec55e617c5e97fc539_home-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645248490fe96492e8f7c081_local_mall_FILL0_wght400_GRAD0_opsz48-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645248490fe96492e8f7c081_local_mall_FILL0_wght400_GRAD0_opsz48-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64524a31002069490551adfc_arrow-down-v1-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64524a31002069490551adfc_arrow-down-v1-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64524a314e7c9ff8f57a27ee_arrow-right-v1-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64524a314e7c9ff8f57a27ee_arrow-right-v1-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64524a3175706a76ec3d1ba6_arrow-corner-top-v1-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64524a3175706a76ec3d1ba6_arrow-corner-top-v1-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64524a31a1a3e60adf9857c1_arrow-corner-v1-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64524a31a1a3e60adf9857c1_arrow-corner-v1-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64524ad29bcbb324aa847f48_arrow-right-v1.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64524ad29bcbb324aa847f48_arrow-right-v1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64524ad33303ce983b42e06b_arrow-down-v1.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64524ad33303ce983b42e06b_arrow-down-v1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f931bef4d8d5724fae2_katie-moum-o0kbc907i20-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f946aebe4cd98ca51a4_michael-fousert-RNsKphkdBTk-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f957a6d802607397622_pexels-artem-podrez-8512383-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f957a6d802607397622_pexels-artem-podrez-8512383-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f957a6d802607397622_pexels-artem-podrez-8512383-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f957a6d802607397622_pexels-artem-podrez-8512383-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f957a6d802607397622_pexels-artem-podrez-8512383.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f957a6d802607397622_pexels-artem-podrez-8512383.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f977a6d8000e7397629_pexels-pavel-danilyuk-7519011-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f977a6d8000e7397629_pexels-pavel-danilyuk-7519011-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f977a6d8000e7397629_pexels-pavel-danilyuk-7519011-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f977a6d8000e7397629_pexels-pavel-danilyuk-7519011-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f977a6d8000e7397629_pexels-pavel-danilyuk-7519011.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f977a6d8000e7397629_pexels-pavel-danilyuk-7519011.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f986fc4758941dd23b7_pexels-produtora-midtrack-14996832-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f986fc4758941dd23b7_pexels-produtora-midtrack-14996832-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f986fc4758941dd23b7_pexels-produtora-midtrack-14996832-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f986fc4758941dd23b7_pexels-produtora-midtrack-14996832-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f986fc4758941dd23b7_pexels-produtora-midtrack-14996832.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f986fc4758941dd23b7_pexels-produtora-midtrack-14996832.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f98d8112f6ddde350b5_pexels-jack-sparrow-5917481.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99c5607b41108e0003_sergei-a-xdj_w3w6dMU-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f99fa3f9a1cbca670ab_pexels-vlada-karpovich-4050315.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645a3f9caa55ed2701e64c7d_pexels-roberto-hund-5356219.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645e70228df36ff0db0d473c_blurry-gradient-6.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645e70228df36ff0db0d473c_blurry-gradient-6.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645e976998b9083c9d09de58_magicpattern-mesh-gradient-1683920715719.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645e976998b9083c9d09de58_magicpattern-mesh-gradient-1683920715719.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/645e9f69a67b560f9e859918_arrow-right-v1 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\645e9f69a67b560f9e859918_arrow-right-v1 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6462a5eabc35625a4899482d_blurry-gradient-7.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6462a5eabc35625a4899482d_blurry-gradient-7.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b96adb77e91869c6b12e0_arrow-drop-down-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b96adb77e91869c6b12e0_arrow-drop-down-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b97724bb713c74286e360_arrow-right-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b97724bb713c74286e360_arrow-right-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c11bbfe80eff9fdfda9_account-balance-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c11bbfe80eff9fdfda9_account-balance-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c121af1367e7c0ace68_account-balance-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c121af1367e7c0ace68_account-balance-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c121af1367e7c0acf1a_account-balance-wallet-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c121af1367e7c0acf1a_account-balance-wallet-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c125f7ff1456cf7e593_payments-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c125f7ff1456cf7e593_payments-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c12a42ab8cf01ae9ba3_insights-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c12a42ab8cf01ae9ba3_insights-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c12a42ab8cf01ae9ba7_account-balance-wallet-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c12a42ab8cf01ae9ba7_account-balance-wallet-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c12d82177fca2470109_payments-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c12d82177fca2470109_payments-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9c139267600156ad84cb_insights-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9c139267600156ad84cb_insights-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9d31aae5f020fb02f04f_star-fill1-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9d31aae5f020fb02f04f_star-fill1-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9d31c8f56fa296588063_star-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9d31c8f56fa296588063_star-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9dc6d82177fca248e293_format-quote-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9dc6d82177fca248e293_format-quote-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646b9dc8e519b92c48b035ba_format-quote-fill1-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646b9dc8e519b92c48b035ba_format-quote-fill1-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646e11697ee520d811174f4b_blur-gradient-8.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646e11697ee520d811174f4b_blur-gradient-8.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646e5b5077e953888ff45964_blur-gradient-9.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646e5b5077e953888ff45964_blur-gradient-9.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646e5b510451f07bb27bd422_blur-gradient-10.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646e5b510451f07bb27bd422_blur-gradient-10.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646f8770e45b38bed48ab6c9_arrow-drop-down-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646f8770e45b38bed48ab6c9_arrow-drop-down-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646f8a5b174822ddef8be2b1_blur-gradient-14.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646f8a5b174822ddef8be2b1_blur-gradient-14.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/646f8a5bd8adc75281b768bf_blur-gradient-12.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\646f8a5bd8adc75281b768bf_blur-gradient-12.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce4dac06617903cbda3_pexels-andrea-piacquadio-3766227.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce529b92d48d4518f86_pexels-anna-shvets-12663094-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce529b92d48d4518f86_pexels-anna-shvets-12663094.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce529b92d48d4518f86_pexels-anna-shvets-12663094.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce57d120de0b909a7e1_tai-bui-1qQqHETk1Jk-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce57d120de0b909a7e1_tai-bui-1qQqHETk1Jk-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5dc557cbd3f7f0ebb_tai-bui-kifwuOLv7FE-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5deace073b8672bb9_tai-bui-VIn09LPgrCs-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5eb26aa9e17dce365_workperch-Yeq9u-qaIUg-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64709ce5f6fffceda8684e89_pexels-yan-krukau-8837607.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a440d5227bcec792fd28_pexels-cottonbro-studio-8468818.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4412bb3cf81eed86e03_pexels-cottonbro-studio-8453941.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a44166f54a74b29e370a_pexels-fauxels-3184617.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a44166f54a74b29e370a_pexels-fauxels-3184617.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a44166f54a74b29e3720_pexels-fauxels-3184346-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a44166f54a74b29e3720_pexels-fauxels-3184346-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a44166f54a74b29e3720_pexels-fauxels-3184346-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a44166f54a74b29e3720_pexels-fauxels-3184346-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a44166f54a74b29e3720_pexels-fauxels-3184346.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a44166f54a74b29e3720_pexels-fauxels-3184346.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4417d120de0b910fdc3_pexels-fauxels-3182801-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4417d120de0b910fdc3_pexels-fauxels-3182801-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4417d120de0b910fdc3_pexels-fauxels-3182801-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4417d120de0b910fdc3_pexels-fauxels-3182801-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4417d120de0b910fdc3_pexels-fauxels-3182801-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4417d120de0b910fdc3_pexels-fauxels-3182801-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a4417d120de0b910fdc3_pexels-fauxels-3182801.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a4417d120de0b910fdc3_pexels-fauxels-3182801.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441937a5e96def6d939_pexels-cottonbro-studio-8453814-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441937a5e96def6d939_pexels-cottonbro-studio-8453814-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441937a5e96def6d939_pexels-cottonbro-studio-8453814-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441937a5e96def6d939_pexels-cottonbro-studio-8453814-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441937a5e96def6d939_pexels-cottonbro-studio-8453814.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441937a5e96def6d939_pexels-cottonbro-studio-8453814.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373245_pexels-fauxels-3184611-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373245_pexels-fauxels-3184611-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373245_pexels-fauxels-3184611-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373245_pexels-fauxels-3184611-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373245_pexels-fauxels-3184611-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373245_pexels-fauxels-3184611-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373245_pexels-fauxels-3184611.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373245_pexels-fauxels-3184611.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373248_pexels-cottonbro-studio-8468121-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373248_pexels-cottonbro-studio-8468121-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373248_pexels-cottonbro-studio-8468121-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373248_pexels-cottonbro-studio-8468121-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373248_pexels-cottonbro-studio-8468121-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373248_pexels-cottonbro-studio-8468121-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441a558edee24373248_pexels-cottonbro-studio-8468121.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441a558edee24373248_pexels-cottonbro-studio-8468121.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441dc557cbd3f859b6a_pexels-fauxels-3184395-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a441dc557cbd3f859b6a_pexels-fauxels-3184395.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a441dc557cbd3f859b6a_pexels-fauxels-3184395.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db041bb767ea081b51_pexels-george-milton-7014925-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db041bb767ea081b51_pexels-george-milton-7014925-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db041bb767ea081b51_pexels-george-milton-7014925-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db041bb767ea081b51_pexels-george-milton-7014925-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db041bb767ea081b51_pexels-george-milton-7014925-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db041bb767ea081b51_pexels-george-milton-7014925-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db041bb767ea081b51_pexels-george-milton-7014925.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db041bb767ea081b51_pexels-george-milton-7014925.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db47ef0ebd8263d159_pexels-george-milton-6953560-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7db47ef0ebd8263d159_pexels-george-milton-6953560.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7db47ef0ebd8263d159_pexels-george-milton-6953560.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7dbdeace073b871920b_pexels-george-milton-6953935-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7dbdeace073b871920b_pexels-george-milton-6953935-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7dbdeace073b871920b_pexels-george-milton-6953935-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7dbdeace073b871920b_pexels-george-milton-6953935-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470a7dbdeace073b871920b_pexels-george-milton-6953935.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470a7dbdeace073b871920b_pexels-george-milton-6953935.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470ba7fcaa803799489e6cf_pexels-fauxels-3254200-1920x1080-50fps-poster-00001.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470ba7fcaa803799489e6cf_pexels-fauxels-3254200-1920x1080-50fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470ba7fcaa803799489e6cf_pexels-fauxels-3254200-1920x1080-50fps-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470ba7fcaa803799489e6cf_pexels-fauxels-3254200-1920x1080-50fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470ba7fcaa803799489e6cf_pexels-fauxels-3254200-1920x1080-50fps-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470ba7fcaa803799489e6cf_pexels-fauxels-3254200-1920x1080-50fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bad682dcfe54ba9cb207_pexels-fauxels-3249453-1920x1080-50fps-poster-00001.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bad682dcfe54ba9cb207_pexels-fauxels-3249453-1920x1080-50fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bad682dcfe54ba9cb207_pexels-fauxels-3249453-1920x1080-50fps-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bad682dcfe54ba9cb207_pexels-fauxels-3249453-1920x1080-50fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bad682dcfe54ba9cb207_pexels-fauxels-3249453-1920x1080-50fps-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bad682dcfe54ba9cb207_pexels-fauxels-3249453-1920x1080-50fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc8129b92d48d46e14b4_pexels-jakub-novacek-924824.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc82a672658eb60ee347_pexels-fauxels-3184464-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc82a672658eb60ee347_pexels-fauxels-3184464-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc82a672658eb60ee347_pexels-fauxels-3184464-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc82a672658eb60ee347_pexels-fauxels-3184464-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc82a672658eb60ee347_pexels-fauxels-3184464-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc82a672658eb60ee347_pexels-fauxels-3184464-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470bc82a672658eb60ee347_pexels-fauxels-3184464.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470bc82a672658eb60ee347_pexels-fauxels-3184464.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470c2142886adf8568567c1_pexels-fauxels-3255273-1920x1080-50fps-poster-00001.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470c2142886adf8568567c1_pexels-fauxels-3255273-1920x1080-50fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470c2142886adf8568567c1_pexels-fauxels-3255273-1920x1080-50fps-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470c2142886adf8568567c1_pexels-fauxels-3255273-1920x1080-50fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470c2142886adf8568567c1_pexels-fauxels-3255273-1920x1080-50fps-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470c2142886adf8568567c1_pexels-fauxels-3255273-1920x1080-50fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470c3064d22745769e5601a_pexels-fauxels-3248066-1920x1080-50fps-poster-00001.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470c3064d22745769e5601a_pexels-fauxels-3248066-1920x1080-50fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470c3064d22745769e5601a_pexels-fauxels-3248066-1920x1080-50fps-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470c3064d22745769e5601a_pexels-fauxels-3248066-1920x1080-50fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470c3064d22745769e5601a_pexels-fauxels-3248066-1920x1080-50fps-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470c3064d22745769e5601a_pexels-fauxels-3248066-1920x1080-50fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54adeace073b89aefbe_pexels-bymalens-2268553-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54adeace073b89aefbe_pexels-bymalens-2268553.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54adeace073b89aefbe_pexels-bymalens-2268553.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d54ba61024d9b3536f41_pexels-wang-jialei-2872168.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470d825937a5e96de250a65_joystick-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470d825937a5e96de250a65_joystick-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6470f1db72b9d65b89c764f3_default-map-image-s.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6470f1db72b9d65b89c764f3_default-map-image-s.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6472144213be7a40169cf378_arrow-forward-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6472144213be7a40169cf378_arrow-forward-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6472182b2daee6c4e027024f_review-photo-2.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6472182b2daee6c4e027024f_review-photo-2.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6472182c189b8450cd7224f7_review-photo-3-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6472182c189b8450cd7224f7_review-photo-3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6472182c189b8450cd7224f7_review-photo-3.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6472182c189b8450cd7224f7_review-photo-3.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6472182c628c867ed59e4821_review-photo-1-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6472182c628c867ed59e4821_review-photo-1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6472182c628c867ed59e4821_review-photo-1.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6472182c628c867ed59e4821_review-photo-1.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a58b107043aab05b3724_pexels-ann-h-10791678-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a58b107043aab05b3724_pexels-ann-h-10791678-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a58b107043aab05b3724_pexels-ann-h-10791678-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a58b107043aab05b3724_pexels-ann-h-10791678-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a58b107043aab05b3724_pexels-ann-h-10791678.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a58b107043aab05b3724_pexels-ann-h-10791678.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a724f753275fb13ff2c5_sergio-rodriguez-portugues-del-olmo-gzYaeL2W-Ao-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a8f22a3cf26273ce88dc_pexels-cottonbro-studio-8453801.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90c2e70a9c1911d7cbb_shubham-dhage-R9y9zC0oLgg-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90c2e70a9c1911d7cbb_shubham-dhage-R9y9zC0oLgg-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90ca8b17d10aa8e05f3_shubham-dhage-GORyBWMVLRw-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a90cc5ce76e2e4bc9611_shubham-dhage-hYb5-1AuTmM-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6473a9108341277e72ce1fd3_ivan-liu-hu-pgSG9d2iNFc-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6473a9108341277e72ce1fd3_ivan-liu-hu-pgSG9d2iNFc-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647494a143b893e54d999c08_arrow-forward-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647494a143b893e54d999c08_arrow-forward-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64760a48d96eab95e210dcc0_send-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64760a48d96eab95e210dcc0_send-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64760a49126b46e8efdd7b0e_call-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64760a49126b46e8efdd7b0e_call-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64760b23518501957670aba2_check-circle-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64760b23518501957670aba2_check-circle-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64760b23aec639e8c25e7e3c_priority-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64760b23aec639e8c25e7e3c_priority-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64762a307fcc87deb90c8f88_home-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64762a307fcc87deb90c8f88_home-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64776bce01b89e5acb3e981a_arrow-corner-top-v1-1.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64776bce01b89e5acb3e981a_arrow-corner-top-v1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/64776bcea24b36884e0f7ee2_home-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\64776bcea24b36884e0f7ee2_home-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478ae9bc7be9e280b33e269_close-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478ae9bc7be9e280b33e269_close-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bc34bba379cbb6b589fd_devices-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bc34bba379cbb6b589fd_devices-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda87cce024c0b9d9c21_yingchih-TZj-urJKRao-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8b5afb6a20eaa6201_angelo-abear-knTKij60p3g-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bda8f1be81627a979fbb_christina-wocintechchat-com-FVgECvTjlBQ-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdae9eb8f409604b63b6_anton-maksimov-5642-su-wrkNQmhmdvY-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478bdaeb6675a884ee8ad5b_maxim-berg-kE8-rUKjtQU-unsplash.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c1c92245b16c79a452d1_hard-drive-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c1c92245b16c79a452d1_hard-drive-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c1c9785918ecca65a6f0_keyboard-alt-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c1c9785918ecca65a6f0_keyboard-alt-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c1c99eb8f409604f6ac2_developer-board-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c1c99eb8f409604f6ac2_developer-board-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c1c9a60d78b6b4a54d08_keyboard-alt-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c1c9a60d78b6b4a54d08_keyboard-alt-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c1ca484deb6623650aa2_hard-drive-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c1ca484deb6623650aa2_hard-drive-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c1caa315bfb578124f78_devices-other-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c1caa315bfb578124f78_devices-other-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c1cab6675a884eec64dc_devices-other-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c1cab6675a884eec64dc_devices-other-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c3c976eb8dc5dd7a30f9_shield-person-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c3c976eb8dc5dd7a30f9_shield-person-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c3c9be86e2342218da04_shield-lock-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c3c9be86e2342218da04_shield-lock-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478c3c9d089e1fcfda162d2_charger-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478c3c9d089e1fcfda162d2_charger-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478cc3e40397d400b0ed119_shield-lock-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478cc3e40397d400b0ed119_shield-lock-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478cc3e562913d1dd55cc63_shield-person-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478cc3e562913d1dd55cc63_shield-person-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478cc3e855115ccc9473fde_charger-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478cc3e855115ccc9473fde_charger-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478da3a5f5d9ed2bb56c1c5_send-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478da3a5f5d9ed2bb56c1c5_send-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478da3bb0b8dcb3d8696394_call-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478da3bb0b8dcb3d8696394_call-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478da3be19738844fd499fb_account-circle-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478da3be19738844fd499fb_account-circle-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6478da890432b5ce5cbfa737_local-mall-fill1-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6478da890432b5ce5cbfa737_local-mall-fill1-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6479f98b5d0b3156457aa666_pexels-pardheshi-rajpoot-5586492-1280x720-30fps (1)-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6479f98b5d0b3156457aa666_pexels-pardheshi-rajpoot-5586492-1280x720-30fps (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6479f98b5d0b3156457aa666_pexels-pardheshi-rajpoot-5586492-1280x720-30fps (1)-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6479f98b5d0b3156457aa666_pexels-pardheshi-rajpoot-5586492-1280x720-30fps (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647a0619566bf20d1cfeb463_pexels-rostislav-uzunov-7710243-1920x1080-30fps (1)-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647a0619566bf20d1cfeb463_pexels-rostislav-uzunov-7710243-1920x1080-30fps (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647a0619566bf20d1cfeb463_pexels-rostislav-uzunov-7710243-1920x1080-30fps (1)-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647a0619566bf20d1cfeb463_pexels-rostislav-uzunov-7710243-1920x1080-30fps (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647a5de0baf6384e788ec0fd_pexels-fauxels-3249903-1920x1080-50fps-poster-00001.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647a5de0baf6384e788ec0fd_pexels-fauxels-3249903-1920x1080-50fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647a5de0baf6384e788ec0fd_pexels-fauxels-3249903-1920x1080-50fps-transcode.mp4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647a5de0baf6384e788ec0fd_pexels-fauxels-3249903-1920x1080-50fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647a5de0baf6384e788ec0fd_pexels-fauxels-3249903-1920x1080-50fps-transcode.webm
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647a5de0baf6384e788ec0fd_pexels-fauxels-3249903-1920x1080-50fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc66141c60012a3d7df36_pexels-michelangelo-buonarroti-8728556.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc661566995db847bf309_pexels-michelangelo-buonarroti-8728380.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc662225896204124348b_pexels-michelangelo-buonarroti-8728562.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dc662dcce73e5a0f43406_pexels-cottonbro-studio-8721318.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dc662dcce73e5a0f43406_pexels-cottonbro-studio-8721318.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647dff3681de40506e5cec29_add-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647dff3681de40506e5cec29_add-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647e00a3cf55e2b1c51f3751_add-fill0-wght400-grad0-opsz48 (2).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647e00a3cf55e2b1c51f3751_add-fill0-wght400-grad0-opsz48 (2).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647e05b55667546f1217f21d_close-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647e05b55667546f1217f21d_close-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647e067236f848d6fa90bea3_delete-fill0-wght400-grad0-opsz48 (1).svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647e067236f848d6fa90bea3_delete-fill0-wght400-grad0-opsz48 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647e0d21c271d80a755eb884_favicon-nebula.png
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647e0d21c271d80a755eb884_favicon-nebula.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647e0d262eaf822e20488121_webclip-nebula.png
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647e0d262eaf822e20488121_webclip-nebula.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-2000.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-2600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-2600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa528358bdb9cf78a6_nebula-blog-wrap-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa528358bdb9cf78a6_nebula-blog-wrap.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa528358bdb9cf78a6_nebula-blog-wrap.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa84dd393f46b32947_nebula-content-wrap-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa84dd393f46b32947_nebula-content-wrap-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa84dd393f46b32947_nebula-content-wrap-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa84dd393f46b32947_nebula-content-wrap-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa84dd393f46b32947_nebula-content-wrap-p-2000.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa84dd393f46b32947_nebula-content-wrap-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa84dd393f46b32947_nebula-content-wrap-p-2600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa84dd393f46b32947_nebula-content-wrap-p-2600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa84dd393f46b32947_nebula-content-wrap-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa84dd393f46b32947_nebula-content-wrap-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa84dd393f46b32947_nebula-content-wrap-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa84dd393f46b32947_nebula-content-wrap-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aa84dd393f46b32947_nebula-content-wrap.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aa84dd393f46b32947_nebula-content-wrap.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-2000.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-2600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-2600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6bfe2_nebula-cta-fotoer-designs-wrap.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-2000.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-2600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-2600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6c048_nebula-ecommerce-wrap-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac3a1da4845a6c048_nebula-ecommerce-wrap.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac3a1da4845a6c048_nebula-ecommerce-wrap.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-2000.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-2600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-2600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac8d98bb3219e5f96_nebula-listing-wrap-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43aac8d98bb3219e5f96_nebula-listing-wrap.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43aac8d98bb3219e5f96_nebula-listing-wrap.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-1080.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-1600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-2000.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-2600.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-2600.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-500.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-800.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43ab7cb92c6f6ce39899_nebula-hero-wrap-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f43ab7cb92c6f6ce39899_nebula-hero-wrap.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f43ab7cb92c6f6ce39899_nebula-hero-wrap.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f49e91da01a85d43455ec_gradient-mesh-backround-1.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f49e91da01a85d43455ec_gradient-mesh-backround-1.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f4c1121c2387b8ff88291_gradient-mesh-backround-2.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f4c1121c2387b8ff88291_gradient-mesh-backround-2.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/647f4cd7f67c0926f8ec4eaf_gradient-mesh-backround-6.webp
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\647f4cd7f67c0926f8ec4eaf_gradient-mesh-backround-6.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6491a02432d5e1196da389be_wysiwyg-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6491a02432d5e1196da389be_wysiwyg-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6491a025c556a9c134da228c_web-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6491a025c556a9c134da228c_web-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/6491a025d366a419f0fa2b4c_browse-fill0-wght400-grad0-opsz48.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\6491a025d366a419f0fa2b4c_browse-fill0-wght400-grad0-opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/css/nebula-startup-technology-template.webflow.896369957.min.css
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\css\nebula-startup-technology-template.webflow.896369957.min.css
+Content Type: text/css
+
+Uri: https://assets.website-files.com/643d67b83069da05c59ace0c/js/webflow.e6f1296a9.js
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da05c59ace0c\js\webflow.e6f1296a9.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/643d67b83069da07f39ad12a_Parmentier.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\643d67b83069da07f39ad12a_Parmentier.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/643d67b83069da2b499ad151_balazs-ketyi-9VzoRKfBsMM-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\643d67b83069da2b499ad151_balazs-ketyi-9VzoRKfBsMM-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/643d67b83069da2d4e9ad135_Hillhouse.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\643d67b83069da2d4e9ad135_Hillhouse.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/643d67b83069da48749ad12d_Oberharm.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\643d67b83069da48749ad12d_Oberharm.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/643d67b83069da4e079ad14f_walling-UP7JSnodG2M-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\643d67b83069da4e079ad14f_walling-UP7JSnodG2M-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/643d67b83069daa5339ad12e_København.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\643d67b83069daa5339ad12e_København.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/643d67b83069dafde39ad14d_daniel-romero--cCxgKIA5RA-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\643d67b83069dafde39ad14d_daniel-romero--cCxgKIA5RA-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6452602ff45494c7f186709e_twitter-logo-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6452602ff45494c7f186709e_twitter-logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/645260384f0daf05c477b086_facebook-logo-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\645260384f0daf05c477b086_facebook-logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6452603ea1a3e635f799db59_linkedin-logo-white.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6452603ea1a3e635f799db59_linkedin-logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6452604799312f7f7a1a19c0_twitter-logo-black.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6452604799312f7f7a1a19c0_twitter-logo-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6452605082a3da124d17dea6_facebook-logo-black.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6452605082a3da124d17dea6_facebook-logo-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6452605789778c1aa30e523d_linkedin-logo-black.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6452605789778c1aa30e523d_linkedin-logo-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647388d08907a86af51d4009_pexels-cottonbro-studio-8465283.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647388d08907a86af51d4009_pexels-cottonbro-studio-8465283.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647388d7944b04bd3bd003b0_pexels-cottonbro-studio-8465278.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647388d7944b04bd3bd003b0_pexels-cottonbro-studio-8465278.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647389fbeadf2262457cd985_pexels-cottonbro-studio-8453029 (1).jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647389fbeadf2262457cd985_pexels-cottonbro-studio-8453029 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64749838f6f6166ad50762e6_pexels-cottonbro-studio-8468121.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64749838f6f6166ad50762e6_pexels-cottonbro-studio-8468121.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64749842101c81b742028305_pexels-george-milton-6953811.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64749842101c81b742028305_pexels-george-milton-6953811.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647498504176cab6d238df78_pexels-george-milton-6953974.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647498504176cab6d238df78_pexels-george-milton-6953974.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474e20c65647b15cfbd423f_pexels-cottonbro-studio-8467600.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474e239cfec71cb21b70509_pexels-cottonbro-studio-8468818.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474e239cfec71cb21b70509_pexels-cottonbro-studio-8468818.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f69e6c92504d2712d973_pexels-george-milton-7034720.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f69e6c92504d2712d973_pexels-george-milton-7034720.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f6b5fa657ae24e414950_workperch-Yeq9u-qaIUg-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f6b5fa657ae24e414950_workperch-Yeq9u-qaIUg-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f6bd25db91a750c6e980_pexels-fauxels-3182801.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f6bd25db91a750c6e980_pexels-fauxels-3182801.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f6c48d12b85a4ded03f8_pexels-george-milton-7014925.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f6c48d12b85a4ded03f8_pexels-george-milton-7014925.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f6cf587e4f055b47b092_pexels-jep-gambardella-7690080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f6cf587e4f055b47b092_pexels-jep-gambardella-7690080.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f6effdd34f78cbd62988_pexels-yan-krukau-8837607.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f6effdd34f78cbd62988_pexels-yan-krukau-8837607.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f7058e8fc760852d30a3_pexels-fauxels-3184617.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f7058e8fc760852d30a3_pexels-fauxels-3184617.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f976d3e4a9aa246f6c61_shubham-dhage-GORyBWMVLRw-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f98620251a2661e60539_shubham-dhage-hYb5-1AuTmM-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f99d1f9f3593b56b88aa_ivan-liu-hu-pgSG9d2iNFc-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9b38e8fc760853052f6_shubham-dhage-R9y9zC0oLgg-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9c9e375f3186a98604e_shubham-dhage-a29VlbgH4wo-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6474f9dce1233d7a6a01a553_shubham-dhage-MNCVkZxae6A-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750e8378d8cf25397ed77a_christina-wocintechchat-com-FVgECvTjlBQ-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750e8a8baebe2b3ecf7818_yingchih-TZj-urJKRao-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750e8a8baebe2b3ecf7818_yingchih-TZj-urJKRao-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750ea43208bbc9a6d5a65b_conny-schneider-pREq0ns_p_E-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750ea43208bbc9a6d5a65b_conny-schneider-pREq0ns_p_E-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750f7d8baebe2b3ed053ad_pexels-george-milton-7014956.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64750fd2efc64328e562ab76_pexels-jep-gambardella-7690089.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102906865ead67aca7ca_shubham-dhage-5QxVMQRGtx0-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647510290c17edb5c2d51707_shubham-dhage-AC4Q1uLRKd4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6475102962692d6cb302fb66_shubham-dhage-XVUNyKn7gqQ-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64751029fd9a13b8ee4f919a_shubham-dhage-WkQMXANpb-A-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647511032def68e1ef73ba91_shubham-dhage-gzEpRXOhKcQ-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477634859cf2ff92b6e2a3f_pexels-george-milton-6953924-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477634859cf2ff92b6e2a3f_pexels-george-milton-6953924-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477634859cf2ff92b6e2a3f_pexels-george-milton-6953924-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477634859cf2ff92b6e2a3f_pexels-george-milton-6953924-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477634859cf2ff92b6e2a3f_pexels-george-milton-6953924.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477634859cf2ff92b6e2a3f_pexels-george-milton-6953924.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/64777029d3d490290cf3ce61_hamza-nouasria-uOIySJjj8LY-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\64777029d3d490290cf3ce61_hamza-nouasria-uOIySJjj8LY-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c41b1e8d8ad3db247054_pexels-michelangelo-buonarroti-8728556.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c42a6d76b02cbf07e185_pexels-michelangelo-buonarroti-8728248.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1)-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1)-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1)-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1)-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1)-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1)-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1).jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c43650243a9449afd39d_pexels-michelangelo-buonarroti-8728380 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4380134185d6e58a172_pexels-michelangelo-buonarroti-8728239.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4380134185d6e58a172_pexels-michelangelo-buonarroti-8728239.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c455107ddd91a5a7cfb9_pexels-michelangelo-buonarroti-8728560.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c47319cc27766b3a6aab_pexels-tara-winstead-8386440.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c47319cc27766b3a6aab_pexels-tara-winstead-8386440.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c48c8aba67c09eab53f6_pexels-cottonbro-studio-5473956.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b1107ad31b7249f21e_pexels-cottonbro-studio-8721318.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c4b4107ddd91a5a82fa3_pexels-michelangelo-buonarroti-8728562.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\6477c50b107ddd91a5a88985_pexels-michelangelo-buonarroti-8728291.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647a4a662a12d4027deb4cad_author-small-img (1)-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647a4a662a12d4027deb4cad_author-small-img (1)-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647a4a662a12d4027deb4cad_author-small-img (1).jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647a4a662a12d4027deb4cad_author-small-img (1).jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba2185d9197f7137b2b40_shubham-dhage-01CYYRfL5EY-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647ba310f98ec4d3b55eaf6c_milad-fakurian-DjjaZybYx4I-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb44e62f9df8c165e61e_sander-weeteling-KABfjuSOx74-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-1080.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-1600.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-500.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-800.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/643d67b83069da864a9ace18/647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash.jpg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\643d67b83069da864a9ace18\647dcb6e02bcec5f50ad1d9e_conny-schneider-xuTJZ7uD7PI-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/img/placeholder-thumb.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\img\placeholder-thumb.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=643d67b83069da05c59ace0c
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://nebula-startup-technology-template.webflow.io/
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/article/boosting-supply-chain-efficiency-with-iot-technologies
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\article\boosting-supply-chain-efficiency-with-iot-technologies.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/article/demystifying-artificial-intelligence-in-business
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\article\demystifying-artificial-intelligence-in-business.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/article/harnessing-the-power-of-ai-for-business-transformation
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\article\harnessing-the-power-of-ai-for-business-transformation.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/article/internet-of-things-and-its-impact-on-smart-home-automation
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\article\internet-of-things-and-its-impact-on-smart-home-automation.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/article/tech-in-action-real-world-applications-of-iot
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\article\tech-in-action-real-world-applications-of-iot.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/article/the-role-of-artificial-intelligence-in-predictive-analytics
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\article\the-role-of-artificial-intelligence-in-predictive-analytics.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/author/sophia-williams
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\author\sophia-williams.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/category/smart-devices
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\category\smart-devices.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/category/wearable-tech
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\category\wearable-tech.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/checkout
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\checkout.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/client/client-1
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\client\client-1.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/client/client-2
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\client\client-2.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/client/client-3
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\client\client-3.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/client/client-4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\client\client-4.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/blank-page
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\blank-page.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/blog
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\blog.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/clients
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\clients.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/contact
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\contact.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/form-page
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\form-page.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/projects
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\projects.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/showcase
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\showcase.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/store
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\store.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/team
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\team.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/testimonials
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\testimonials.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/general-layouts/topics
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\general-layouts\topics.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/information/changelog
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\information\changelog.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/information/instructions
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\information\instructions.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/information/licencing
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\information\licencing.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/information/sample-page
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\information\sample-page.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-1/about-1
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-1\about-1.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-1/home-1
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-1\home-1.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-1/services-1
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-1\services-1.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-1/technologies-1
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-1\technologies-1.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-2/about-2
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-2\about-2.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-2/home-2
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-2\home-2.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-2/services-2
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-2\services-2.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-2/technologies-2
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-2\technologies-2.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-3/about-3
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-3\about-3.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-3/home-3
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-3\home-3.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-3/services-3
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-3\services-3.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-3/technologies-3
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-3\technologies-3.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-4/about-4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-4\about-4.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-4/home-4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-4\home-4.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/layouts-4/services-4
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\layouts-4\services-4.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/product/augmented-reality-glasses
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\product\augmented-reality-glasses.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/product/biometric-security-cam
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\product\biometric-security-cam.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/product/portable-power-bank
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\product\portable-power-bank.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/product/smart-home-hub
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\product\smart-home-hub.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/product/smart-speaker-with-voice-assistant
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\product\smart-speaker-with-voice-assistant.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/product/the-ultimate-guide
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\product\the-ultimate-guide.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/project/ai-driven-customer-service-chatbot
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\project\ai-driven-customer-service-chatbot.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/project/blockchain-solution-for-secure-transactions
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\project\blockchain-solution-for-secure-transactions.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/project/cloud-migration-and-infrastructure-optimization
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\project\cloud-migration-and-infrastructure-optimization.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/project/iot-enabled-supply-chain-management-system
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\project\iot-enabled-supply-chain-management-system.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/ai-and-machine-learning
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\ai-and-machine-learning.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/business-intelligence
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\business-intelligence.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/cloud-services
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\cloud-services.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/cybersecurity
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\cybersecurity.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/data-analysis
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\data-analysis.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/iot-services
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\iot-services.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/it-consulting
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\it-consulting.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/service/software-development
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\service\software-development.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/social/facebook
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\social\facebook.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/social/linkedin
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\social\linkedin.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/social/twitter
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\social\twitter.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/team/emma-martinez
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\team\emma-martinez.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/team/james-sullivan
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\team\james-sullivan.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/team/lisa-nguyen
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\team\lisa-nguyen.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/technology/artificial-intelligence
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\technology\artificial-intelligence.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/technology/augmented-reality
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\technology\augmented-reality.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/technology/blockchain
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\technology\blockchain.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/technology/cloud-computing
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\technology\cloud-computing.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/technology/internet-of-things
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\technology\internet-of-things.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/technology/machine-learning
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\technology\machine-learning.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/testimonial/testimonial-1
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\testimonial\testimonial-1.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/topic/artificial-intelligence
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\topic\artificial-intelligence.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/topic/internet-of-things
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\topic\internet-of-things.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/call-to-action-sections
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\call-to-action-sections.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/cms-listings-ecommerce
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\cms-listings-ecommerce.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/content-cards
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\content-cards.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/content-main
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\content-main.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/footers
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\footers.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/forms
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\forms.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/hero-sections
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\hero-sections.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/image-animations
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\image-animations.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/listings-cms
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\listings-cms.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/style-guide
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\style-guide.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/tabs
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\tabs.html
+Content Type: text/html
+
+Uri: https://nebula-startup-technology-template.webflow.io/ui-kit/ui-gallery
+File Name: C:\Users\shyam\OneDrive\Desktop\USha\nebula-startup-technology-template.webflow.io\ui-kit\ui-gallery.html
+Content Type: text/html
+
