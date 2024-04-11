@@ -23065,7 +23065,7 @@ __p+='`),
             f = e("<img>")
               .attr(
                 "src",
-                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon.f67cd735e3.svg"
+                // "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon.f67cd735e3.svg"
               )
               .attr("alt", "")
               .css({ marginRight: "8px", width: "16px" }),
