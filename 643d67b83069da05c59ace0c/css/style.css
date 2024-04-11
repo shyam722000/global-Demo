@@ -12408,11 +12408,11 @@ blockquote {
 }
 .fixed-blurry-mesh-bg {
   z-index: 1;
-  opacity: 0.6;
-  background-image: url(../647f49e91da01a85d43455ec_gradient-mesh-backround-1.webp);
+  opacity: 1;
+  background-image: url(../../img/bg);
   background-position: 50%;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:contain;
   position: fixed;
   top: 0%;
   bottom: 0%;
