@@ -11737,7 +11737,7 @@ blockquote {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  padding: 1em 1em 10em;
+  padding: 1em 1em 3em;
   transition: box-shadow 0.5s cubic-bezier(0.075, 0.82, 0.165, 1),
     transform 0.5s cubic-bezier(0.075, 0.82, 0.165, 1), background-color 0.2s;
   display: flex;
