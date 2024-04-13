@@ -8847,13 +8847,15 @@ blockquote {
 .listing-3 {
   width: 100%;
 }
-.listing-3-text {
+.listing-3-text{
   z-index: 10;
   max-width: 20em;
   font-size: 1.3em;
   line-height: 1.4em;
   position: relative;
 }
+
+
 .listing-3-text.is-larger {
   max-width: 13em;
   font-size: 1.4em;
