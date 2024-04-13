@@ -8648,6 +8648,7 @@ blockquote {
   grid-template-columns: 1fr 1fr 1fr;
 }
 .listing-1-text-1 {
+  text-align: center;
   font-size: 1.2em;
   line-height: 1.5em;
 }
@@ -11537,17 +11538,13 @@ blockquote {
 }
 .listing-7-list {
   width: 100%;
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-  border-radius: 25px;
-  grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-auto-columns: 1fr;
-  display: grid;
+display: flex;
+  align-items: center;
+  justify-content: center;
   overflow: hidden;
 }
 .listing-7-item {
-  width: 100%;
+  width: 30%;
 }
 .listing-7-link {
   z-index: 10;
