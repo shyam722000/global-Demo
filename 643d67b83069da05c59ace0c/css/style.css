@@ -11546,7 +11546,7 @@ display: flex;
   overflow: hidden;
 }
 .listing-7-item {
-  width: 30%;
+  width: 100%;
 }
 .listing-7-link {
   z-index: 10;
