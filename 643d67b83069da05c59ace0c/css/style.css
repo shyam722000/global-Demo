@@ -6440,6 +6440,10 @@ blockquote {
   font-size: 1em;
   font-weight: 700;
   line-height: 1.6em;
+  color: #000;
+}
+.productandservice{
+  display: block;
 }
 .uppercase-text-1.is-center {
   text-align: center;
@@ -8651,6 +8655,7 @@ blockquote {
   text-align: center;
   font-size: 1.2em;
   line-height: 1.5em;
+  padding-top: 20px;
 }
 .listing-1-content {
   width: 100%;
@@ -12438,15 +12443,16 @@ display: flex;
   margin-right: auto;
 }
 .large-title-absolute-text {
-  color: #c95638;
+
+  color: #065e84;
   white-space: nowrap;
   flex: none;
-  font-size: 16vw;
+  font-size: 13vw;
   font-weight: 700;
   line-height: 1.3em;
 }
 .large-title-absolute-text.is-2nd {
-  color: #065e84;
+  color: #c95638;
 }
 .large-title-absolute {
   z-index: 2;
@@ -12478,7 +12484,7 @@ display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 8em;
+  padding-top: 2em;
   padding-bottom: 8em;
   display: flex;
 }
@@ -13050,6 +13056,7 @@ display: flex;
   justify-content: flex-start;
   align-items: flex-start;
   display: flex;
+  color: black;
 }
 .article-details {
   grid-column-gap: 1em;
@@ -17968,11 +17975,13 @@ display: flex;
 }
 #w-node-_5e17f060-9d71-82f2-aa32-16bb07cf10bb-b99ace7f {
   grid-area: span 1 / span 1 / span 1 / span 1;
+  /* color: #000; */
 }
 #w-node-_5e17f060-9d71-82f2-aa32-16bb07cf10bd-b99ace7f,
 #w-node-_5e17f060-9d71-82f2-aa32-16bb07cf10c4-b99ace7f {
   grid-area: span 1 / span 1 / span 1 / span 1;
   justify-self: center;
+  /* color: #0082f3; */
 }
 #w-node-_5e17f060-9d71-82f2-aa32-16bb07cf10cb-b99ace7f {
   grid-area: span 1 / span 1 / span 1 / span 1;
