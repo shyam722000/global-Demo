@@ -9519,9 +9519,10 @@ blockquote {
 .horizontal-flex {
   text-align: left;
   flex-flow: wrap;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   display: flex;
+  padding-bottom: 2%;
 }
 .horizontal-flex.with-gap-1em {
   grid-column-gap: 1em;
