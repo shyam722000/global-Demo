@@ -2974,7 +2974,7 @@ blockquote {
 }
 .section.with-bg-color-2 {
   color: #fff;
-  background-color: #142638;
+  background-color: #637280;
 }
 .section.with-bg-color-2.with-radius {
   border-radius: 25px;
@@ -3030,6 +3030,7 @@ blockquote {
   justify-content: flex-start;
   align-items: flex-start;
   display: flex;
+
 }
 .container.is-breadcrumbs {
   position: absolute;
@@ -3143,6 +3144,9 @@ blockquote {
 .heading.is-regular-title {
   font-size: 3.5em;
   line-height: 1.3em;
+  font-weight: 600;
+  color: rgb(19, 19, 19);
+  /* stroke:black 2px; */
 }
 .heading.is-extra-small-title {
   font-size: 2em;
@@ -3380,11 +3384,12 @@ blockquote {
   z-index: 1;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  
+  object-fit:fill;
   position: absolute;
 }
 .cover-image.is-parallax {
-  height: 120%;
+  height: 100%;
   top: auto;
   bottom: auto;
 }
@@ -4294,7 +4299,7 @@ blockquote {
   z-index: 20;
   grid-column-gap: 2.25em;
   color: #fff;
-  background-color: #016b9b;
+  background-color: #073a52;
   border-radius: 100px;
   flex-direction: row;
   flex: none;
@@ -4345,7 +4350,7 @@ blockquote {
   z-index: 4;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit:fill;
   position: absolute;
   top: 0%;
   bottom: 0%;
@@ -4356,7 +4361,7 @@ blockquote {
   z-index: 5;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: fill;
   position: absolute;
   top: 0%;
   bottom: 0%;
@@ -4508,6 +4513,11 @@ blockquote {
   z-index: 10;
   width: 100%;
   position: relative;
+}
+
+.branches{
+  font-weight: 800;
+  font-size: 10px;
 }
 .listing-4-list {
   width: 100%;
@@ -9262,6 +9272,7 @@ blockquote {
 }
 .hero-1-content-wrap {
   width: 100%;
+  height: 35vw;
   grid-row-gap: 7em;
   flex-direction: column;
   justify-content: flex-end;
@@ -10551,6 +10562,11 @@ blockquote {
   position: -webkit-sticky;
   position: sticky;
   top: 4%;
+  background-image: url('../../img/t1.png');
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:50%;
+  /* background-attachment: fixed; */
 }
 .cards-1-content-block {
   z-index: 10;
@@ -10634,10 +10650,11 @@ blockquote {
 }
 .card-1-text-1,
 .card-6-text-2 {
+ 
   z-index: 10;
-  opacity: 0.7;
+  /* opacity: 0.7; */
   font-size: 1.4em;
-  font-weight: 500;
+  font-weight: 800;
   line-height: 1.6em;
   position: relative;
 }
@@ -11233,10 +11250,17 @@ blockquote {
 }
 .hero-5.is-2nd {
   min-height: auto;
-  background-color: rgba(255, 255, 255, 0.5);
+  /* background-color: rgba(255, 255, 255, 0.5); */
   border-bottom: 1px solid rgba(255, 255, 255, 0.6);
   border-bottom-right-radius: 25px;
   border-bottom-left-radius: 25px;
+  background-image: url('../../img/pr4.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+
+  
 }
 .hero-5-grid {
   z-index: 20;
@@ -11256,6 +11280,7 @@ blockquote {
   padding-top: 1.5em;
   display: flex;
   position: relative;
+  /* background-color: #000; */
 }
 .hero-5-column-side.is-2nd {
   justify-content: flex-end;
@@ -12445,16 +12470,20 @@ display: flex;
 }
 .large-title-absolute-text {
 
-  color: #065e84;
+  color:#FF681F;
   white-space: nowrap;
   flex: none;
-  font-size: 13vw;
+  font-size: 10vw;
   font-weight: 700;
   line-height: 1.3em;
+  /* margin-top: -30px; */
+  /* padding: 3px; */
+  padding-left: 25px;
 }
 .large-title-absolute-text.is-2nd {
-  color: #c95638;
+  color:#e5e4e2;
 }
+
 .large-title-absolute {
   z-index: 2;
   width: 100%;
@@ -12463,6 +12492,7 @@ display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  margin-bottom: 10px;
   padding: 0 7vw;
   display: flex;
   position: relative;
@@ -12854,7 +12884,10 @@ display: flex;
   display: flex;
 }
 .opacity-80 {
-  opacity: 0.8;
+  /* opacity: 1; */
+  color: #193047;
+  font-size: 15px;
+  font-weight: 500;
 }
 .aside-contact-title {
   color: #284969;
@@ -13613,6 +13646,8 @@ display: flex;
   }
   .heading.is-regular-title {
     font-size: 3em;
+    color: white;
+    font-weight: 400;
   }
   .heading.is-extra-small-title {
     font-size: 1.8em;
@@ -14638,10 +14673,17 @@ display: flex;
   .grid-4 {
     grid-template-columns: 1fr 1fr 1fr;
   }
+  .card-1-text-1 {
+    font-size: 1rem;
+    line-height: 1.5em;
+    color: white;
+    padding-top: 5px;
+  }
   .card-1-text-1,
   .card-6-text-2 {
-    font-size: 1.1em;
+    font-size: 1rem;
     line-height: 1.5em;
+    
   }
   .content-2-block-5 {
     min-width: 17em;
