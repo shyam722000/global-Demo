@@ -8867,6 +8867,7 @@ blockquote {
   max-width: 20em;
   font-size: 1.3em;
   line-height: 1.4em;
+  text-align: center;
   position: relative;
 }
 
@@ -13644,6 +13645,9 @@ display: flex;
   .heading.is-extra-large-title {
     font-size: 5.5em;
   }
+  
+
+
   .heading.is-regular-title {
     font-size: 3em;
     color: white;
